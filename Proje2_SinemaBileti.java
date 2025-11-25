@@ -1,3 +1,14 @@
+/**
+ * Ad Soyad: Neva Yıldız
+ * Öğrenci No: 250541034
+ * Proje: Sinema Bileti
+ * Tarih: 25.11.2025
+ */
+
+
+
+
+
 import java.util.Scanner;
 
 public class Main {
@@ -132,3 +143,4 @@ public class Main {
         generateTicketInfo(gun, saat, yas, meslek, tur);
     }
 }
+
