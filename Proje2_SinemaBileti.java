@@ -11,7 +11,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class SinemaBileti {
 
     // 1) Hafta sonu kontrolü
     public static boolean isWeekend(int gun) {
@@ -143,4 +143,5 @@ public class Main {
         generateTicketInfo(gun, saat, yas, meslek, tur);
     }
 }
+
 
