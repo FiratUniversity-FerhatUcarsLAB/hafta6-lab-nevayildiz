@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class RestoranSiparis {
 
     // === 1) Ana Yemek Fiyatı ===
     public static double getMainDishPrice(int secim) {
@@ -162,3 +162,4 @@ public class Main {
         System.out.println("Bahşiş Önerisi (%10): " + tip + "₺");
     }
 }
+
